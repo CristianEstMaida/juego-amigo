@@ -4,7 +4,7 @@ let listaAmigosSorteados = [];
 
 function agregarAmigo() {
     let nombre = document.getElementById('amigo').value;
-    if (nombre === '') {
+    if (nombre === '' || amigos.includes(nombre)) {
         alert('Por favor, inserte un nombre válido.');
         return;
     }
