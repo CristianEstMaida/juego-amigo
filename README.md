@@ -8,5 +8,5 @@
 - `Visualizar la lista`: Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - `Sorteo aleatorio`: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
 
-| [<img src="https://avatars.githubusercontent.com/u/?v=4" width=115><br><sub>Agregar amigo</sub>](https://github.com/) |  [<img src="https://avatars.githubusercontent.com/u/?v=4" width=115><br><sub>Realizar sorteo</sub>]([https://github.com/](https://github.com/ellenpimentel)) |
+| [<img src="https://avatars.githubusercontent.com/u/?v=4" width=115><br><sub>Agregar amigo</sub>](https://github.com/) |  [<img src="https://avatars.githubusercontent.com/u/?v=4" width=115><br><sub>Realizar sorteo</sub>]([https://github.com/](https://github.com/)) |
 | :---: | :---: |
